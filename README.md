@@ -29,6 +29,6 @@ npm i
 
 ## 기타 오류 및 질문사항
 
-> Discord : ! MOON#9999
+Discord : ! MOON#9999
 
 Discord Server : <a href="https://discord.gg/XnAqJW2huv" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
