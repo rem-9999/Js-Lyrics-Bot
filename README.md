@@ -26,3 +26,8 @@ npm i
          node index.js 또는 node.
 ## 사용법
     <prefix>가사 <아티스트> <노래제목>
+
+## 기타 오류 및 질문사항
+
+> Discord : ! MOON#9999
+<a href="https://discord.gg/XnAqJW2huv" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
