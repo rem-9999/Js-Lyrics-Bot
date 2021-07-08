@@ -8,8 +8,9 @@ npm i
     lyrics-finder
 
 ## 봇 실행
-> config.json 
-{
-    "token": "", // 봇 토큰
+> config.json
+
+    {
+    "token": "", //봇 토큰
     "prefix": "" //봇 접두사
-}
+    }   
