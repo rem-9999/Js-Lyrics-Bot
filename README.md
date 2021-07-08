@@ -24,3 +24,5 @@ npm i
      
          Ctrl + Shift + `
          node index.js 또는 node.
+## 사용법
+    /prefix+가사 아티스트 노래제목
