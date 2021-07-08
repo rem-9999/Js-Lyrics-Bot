@@ -31,4 +31,4 @@ npm i
 
 Discord : ! MOON#9999
 
-Discord Server : <a href="https://discord.gg/XnAqJW2huv" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+Discord Server : <a href="https://discord.gg/bmceBj6nH9" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
