@@ -1,0 +1,14 @@
+{
+  "name": "lyrics_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "Made By ! MOON#9999",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "lyrics-finder": "^21.7.0"
+  }
+}
